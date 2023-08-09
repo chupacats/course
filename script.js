@@ -18,4 +18,4 @@ let a = prompt('Один из последних просмотренных фи
 personalMovieDB.movies[a] = b; //почему
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB);
+console.log('Database:', personalMovieDB);
